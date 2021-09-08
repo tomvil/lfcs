@@ -637,6 +637,11 @@ Show info documents for specific command
 root user is the system administrator
   - When logged as root shell prompts `#`, otherwise it will be `$`
 
+Why not root?
+  - The root account has the most access of any account on a Linux system
+  - Most modern Linux systems do not allow you to log in or change over to root
+  - root access is not necessary for most daily tasks.
+
 Becoming a root user
   - `$ sudo -i`
 

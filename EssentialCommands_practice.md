@@ -60,7 +60,7 @@
 2. List `/opt` directory and append output to `/tmp/etc_opt.txt` file
 3. Pass `/tmp/etc_opt.txt` file content to `less` command (while using pipe)
 4. Pass `/tmp/etc_opt.txt` file content to `less` command using stdin redirect
-5. Run `find /proc -name "cpu*" 2> /dev/null` as non-root and redirect stderr to `/dev/null`
+5. Run `find /proc -name "cpu*"` as non-root and redirect stderr to `/dev/null`
 6. Run the same command as 4 but redirect error to stdout and then to `/dev/null`
 
 <br>

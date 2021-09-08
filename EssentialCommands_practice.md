@@ -20,7 +20,7 @@
 10. Search for files that were accessed more than 35 minutes ago
 11. Search for files that were changed less than 5 days ago
 12. Search for directory named `cups`
-13. Search for file named 'squid.conf` while descending at most 2 levels of directories.
+13. Search for file named 'squid.conf` while descending at most 3 levels of directories.
 14. Search for files that has same inode as `/etc/dnsmasq.conf` 
 15. Search for files that are owned by root
 16. Search for files that are not owned by root

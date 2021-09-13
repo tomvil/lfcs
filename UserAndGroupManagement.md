@@ -1,4 +1,4 @@
-# Chapter 3. Create, delete, and modify local user accounts
+# Chapter 3. User and Group management
 
 ## ## Create, delete, and modify local user accounts
 User management is one of the most common but critical activities that you will perform as a system administrator.

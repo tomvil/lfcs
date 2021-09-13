@@ -1,4 +1,4 @@
-# Chapter 3. Create, delete, and modify local user accounts
+# Chapter 3. User and group management
 
 ## ## Create, delete, and modify local user accounts
 1. Check all default `useradd` command settings

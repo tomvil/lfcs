@@ -5,4 +5,4 @@
 
 [User and Group Management - 10%](UserAndGroupManagement.md) ([Tasks to pracatice](UserAndGroupManagement_practice.md))
 
-[Networking - 12%](Networking.md) ([Tasks to pracatice](Networking_practice.md))
+[Service Configuration - 20%](ServiceConfiguration.md) ([Tasks to pracatice](ServiceConfiguration_practice.md))

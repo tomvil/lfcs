@@ -90,8 +90,8 @@
 <br>
 
 ## ## Archive, Backup, Compress, Unpack and Decompress files.
-1. Create a tarball from `/opt` directory
-2. Create a compressed tar file (gzip) from `/opt` directory
+1. Create a tarball from `/opt` directory to `/root` directory
+2. Create a compressed tar file (gzip) from `/opt` directory to `/root` directory
 3. Extract gzip created in task number two
 4. Create a compressed tar file using bzip2 `/opt`
 5. Extract bzip2 created in task number four
@@ -137,7 +137,7 @@ Create `personal` directory in your `$HOME`. Create file named `important.conf` 
 8. Change `personal/important.conf` owner to some other user
 9. Change `personal/important.conf` group to `wheel`
 10. Change both user and group to `root` for `personal/important.conf` file
-
+11. Set `/etc/resolv.conf` immutable and test if it was added. (Remove after)
 <br>
 
 ## ## Read and use system documentation

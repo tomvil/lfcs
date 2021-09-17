@@ -36,7 +36,7 @@
 5. Identify which process uses the most of CPU time
 6. Identify which process uses the most RAM
 7. List all open files associated with 5 and 6 results.
-8. Run command in a background
+8. Run `dd` command in the background
 9. List all processes running in a background
 10. Return process to foreground.
 11. Start new process with nice value of 7
@@ -46,7 +46,7 @@
 15. Kill a process with SIGKILL
 16. List all available kill signals.
 17. Install `htop`
-
+18. Display all `bash` processes
 <br>
 
 ## ## Locate and analyze system log files
@@ -89,6 +89,10 @@
 11. Upgrade `tmux` package
 12. Find all packages related to `apache`
 13. Check what packages includes `httpd.conf` file
+14. Show all information and all related files to `logrotate` package
+15. Verify `logrotate` package installation
+16. Try to remove `logrotate` package
+17. Rebuild RPM database
 
 <br>
 

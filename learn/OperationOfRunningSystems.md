@@ -375,6 +375,17 @@ cron.*                                                  /var/log/cron
   - `rpm -qp --scripts pkgname` - show what will be executed after installing package
   - `rpm -qi pkgname` - get package info-
   - `rpm -qf /path/to/file` - Tell what RPM packages does this file belong to.
+  - `rpm -qil pkgname` - List information about the package and shows all files related to the package 
+
+**rebuild rpm database**:
+  - Make a backup!
+    - `cd /var/lib`
+    - `cp -a rpm rpm_backup`
+  - Rebuild the database
+    - `rpm --rebuilddb`
+  - Check if all good
+    - `rpm -qa`
+  - Delete the backup dreictory
 
 **yum**
   - Package manager for RedHat systems

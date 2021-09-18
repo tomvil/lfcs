@@ -600,7 +600,7 @@ Absolute mode:
 Relative mode:
   - `$ chmod u+s filename` set suid
   - `$ chmod g+s filename` set guid
-  - `$ chmod o+s filename` set sticky bit.
+  - `$ chmod +t filename` set sticky bit.
 
 Modify ownership examples:
 

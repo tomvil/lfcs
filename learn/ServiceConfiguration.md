@@ -4,7 +4,7 @@
 DNS resolution is a key part of system communication and a caching DNS server can help improve performance.
 
 One of Linux DNS servers is `BIND`
-  - `$ yum install bind-utils` - will install BIND dns server
+  - `$ yum install bind bind-utils` - will install BIND dns server
   - `/etc/bind/named.conf` - main configuration file
     - `/etc/bind/named.conf.options`
   - Configuration example:

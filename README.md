@@ -11,4 +11,4 @@
 
 [Storage Management - 20%](/learn/Networking.md) ([Tasks to pracatice](/practice/StorageManagement_practice.md))
 
-[Other tasks to practice - Over 99999%](/practice/Other_practice.md)
+[Other tasks to practice - Over 999%](/practice/Other_practice.md)
